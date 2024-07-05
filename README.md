@@ -24,6 +24,10 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Benchmarking:* Comparar el desempeño de Mercado Libre con el de Amazon, eBay y AliExpress para evaluar su posición competitiva en el mercado.
 
+*Stakeholder Mapping:* Identificar y mapear a los principales stakeholders de Mercado Libre para comprender sus intereses y cómo influencian el negocio.
+
+*Business Model Canvas:* Desarrollar un Business Model Canvas de Mercado Libre para visualizar sus componentes clave y explorar oportunidades de innovación.
+
 *Identificación de Oportunidades:* Detectar oportunidades de mejora y áreas de crecimiento para Mercado Libre basadas en el análisis de datos.
 
 *Recomendaciones Estratégicas:* Proponer estrategias innovadoras que Mercado Libre pueda implementar para consolidar su liderazgo en el mercado latinoamericano.
