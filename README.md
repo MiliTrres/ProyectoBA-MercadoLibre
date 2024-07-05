@@ -37,5 +37,15 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
+## <h1 align= center> Stakeholder Mapping </h1>
 
+<p align='center'> <img src="Img\Stakeholdermapping.png" width="800" height="400" ><p>
+
+## <h1 align= center> Business Model Canvas </h1>
+
+<p align='center'> <img src="Img\businessmodelcanvas.png" width="800" height="400" ><p>
+
+## <h1 align= center> Análisis descriptivo </h1>
+
+<p align='center'> <img src="Img\analisisdescriptivo.png" width="800" height="400" ><p>
 
