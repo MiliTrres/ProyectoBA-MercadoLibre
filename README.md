@@ -4,4 +4,4 @@
 
 # <h1 align= center> **Modelo de negocio - Mercado Libre** </h1>
 
-<p align='center'> <img src="Img\logo_mercadolibre.png" width="400" height="150" ><p>
+<p align='center'> <img src="Img\logo_mercadolibre.png" width="300" height="150" ><p>
