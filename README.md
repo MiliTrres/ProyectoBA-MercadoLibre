@@ -5,3 +5,5 @@
 # <h1 align= center> **Modelo de negocio: Mercado Libre** </h1>
 
 <p align='center'> <img src="Img\logo_mercadolibre.png" width="300" height="150" ><p>
+
+> Proyecto realizado durante el curso de Business Analytics, CODERHOUSE. Julio 2024.
