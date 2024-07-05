@@ -35,7 +35,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Benchmarking </h1>
 
-<p align='center'> <img src="Img\Benchmarking.png" width="1000" height="400" ><p>
+<p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
 
 
