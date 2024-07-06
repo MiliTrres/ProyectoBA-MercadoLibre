@@ -20,13 +20,17 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Objetivos del Proyecto </h1>
 
-*Análisis Descriptivo:* Realizar un análisis descriptivo de las ventas de Mercado Libre por categoría entre 2018 y 2023 para identificar tendencias y patrones significativos.
+*Presentación del negocio:* Presentar brevemente la marca y datos generales (antiguedad, cantidad de sucursales, presencia online, cantidad de colaboradores, etc.), incluyendo detalle del producto(s) o servicio(s) que ofrece y sus principales características (propuesta de valor/diferencial).
 
 *Benchmarking:* Comparar el desempeño de Mercado Libre con el de Amazon, eBay y AliExpress para evaluar su posición competitiva en el mercado.
 
 *Stakeholder Mapping:* Identificar y mapear a los principales stakeholders de Mercado Libre para comprender sus intereses y cómo influencian el negocio.
 
 *Business Model Canvas:* Desarrollar un Business Model Canvas de Mercado Libre para visualizar sus componentes clave y explorar oportunidades de innovación.
+
+*Análisis Descriptivo:* Realizar un análisis descriptivo de las ventas de Mercado Libre por categoría entre 2018 y 2023 para identificar tendencias y patrones significativos.
+
+*Regresión lineal de los datos:*
 
 *Identificación de Oportunidades:* Detectar oportunidades de mejora y áreas de crecimiento para Mercado Libre basadas en el análisis de datos.
 
