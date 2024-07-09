@@ -51,5 +51,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Análisis descriptivo </h1>
 
+<p align='center'> <img src="Img\finalidadanalisis.png" width="800" height="400" ><p>
+
 <p align='center'> <img src="Img\analisisdescriptivo.png" width="800" height="400" ><p>
 
