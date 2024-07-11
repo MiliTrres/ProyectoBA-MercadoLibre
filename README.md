@@ -58,3 +58,5 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 ## <h1 align= center> Estadistica Descriptiva </h1>
 
 <p align='center'> <img src="Img\reporteanalisis.png" width="800" height="400" ><p>
+
+## <h1 align= center> Regresión lineal </h1>
