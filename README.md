@@ -72,3 +72,5 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 <p align='center'> <img src="Img\prevision.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Informe Previsión </h1>
+
+<p align='center'> <img src="Img\informeprevision.png" width="800" height="400" ><p>
