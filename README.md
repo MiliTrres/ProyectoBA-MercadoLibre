@@ -64,3 +64,5 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 <p align='center'> <img src="Img\regresionlineal.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Informe de Regresión </h1>
+
+<p align='center'> <img src="Img\informeregresion.png" width="800" height="400" ><p>
