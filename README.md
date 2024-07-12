@@ -75,4 +75,4 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 <p align='center'> <img src="Img\informeprevision.png" width="800" height="400" ><p>
 
-A traves del siguiente link puede visualizar la presentación en una presentación de Google: 
+A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)
