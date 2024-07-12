@@ -74,3 +74,5 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 ## <h1 align= center> Informe Previsión </h1>
 
 <p align='center'> <img src="Img\informeprevision.png" width="800" height="400" ><p>
+
+A traves del siguiente link puede visualizar la presentación en una presentación de Google: 
