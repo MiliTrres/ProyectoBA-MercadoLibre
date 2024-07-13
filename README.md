@@ -99,6 +99,8 @@ El análisis de la regresión lineal se utiliza para predecir el valor de una va
 La variable que desea predecir se denomina variable dependiente. 
 La variable que se está utilizando para predecir el valor de la otra variable se denomina variable independiente.
 
+#### <h2 align= center> ¿Como funciona la "Regresión Lineal"? </h2>
+
 Esta forma de análisis estima los coeficientes de la ecuación lineal, involucrando desde una a más variables independientes que mejor predicen el valor de la variable dependiente.
 
 
