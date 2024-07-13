@@ -75,6 +75,8 @@ Es importante respaldar un modelo Canvas con otras herramientas cuantitativas co
 
 ## <h1 align= center> Análisis descriptivo </h1>
 
+#### <h2 align= center> ¿Que es el "Análisis Descriptivo"? </h2>
+
 <p align='center'> <img src="Img\finaalidadanalisis.png" width="800" height="400" ><p>
 
 <p align='center'> <img src="Img\categorias.png" width="800" height="400" ><p>
