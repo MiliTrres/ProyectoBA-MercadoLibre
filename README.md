@@ -58,7 +58,7 @@ Son indispensables y hay que tenerlos en cuenta al momento de realizar la planif
 
 ##### <h3 align= center> Stakeholder mapping registrando información de cada uno de los niveles: </h3>
 
-<h3 align= center> </h3>
+<h3 align= center>   </h3>
 
 <p align='center'> <img src="Img\Stakeholdermapping.png" width="800" height="400" ><p>
 
