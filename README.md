@@ -1,4 +1,4 @@
-<p align='center'> <img src="Img\logos_coderhouse.png" width="400" height="100" ><p>
+s<p align='center'> <img src="Img\logos_coderhouse.png" width="400" height="100" ><p>
 
 # <h1 align= center> **Proyecto final - Business Analytics** </h1>
 
@@ -43,7 +43,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 Se trata de un proceso contínuo a través del cual tomamos como referencia productos, servicios o procesos de trabajo de la competencia o empresas líderes en el mercado y los comparamos con los de nuestra propia empresa para poder sacar conclusiones e implementar mejoras. 
 
-##### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
+#### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
 
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
