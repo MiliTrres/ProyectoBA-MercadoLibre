@@ -39,7 +39,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Benchmarking </h1>
 
-#### <h2 align= center> ¿Que es el "benchmarking"? </h2>
+#### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
 
 Se trata de un proceso contínuo a través del cual tomamos como referencia productos, servicios o procesos de trabajo de la competencia o empresas líderes en el mercado y los comparamos con los de nuestra propia empresa para poder sacar conclusiones e implementar mejoras. 
 
@@ -49,7 +49,7 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 ## <h1 align= center> Stakeholder Mapping </h1>
 
-#### <h2 align= center> ¿Que y quienes son los "stakeholders"? </h2>
+#### <h2 align= center> ¿Que y quienes son los "Stakeholders"? </h2>
 
 "Stakeholder", es una palabra en inglés que hace referencia a las partes interesadas relacionadas a alguna actividad o proyecto.
 Son todos los actores (personas e instituciones) cuyos intereses pueden verse afectados positiva o negativamente por la ejecución o conclusión de las actividades de la empresa. 
@@ -76,6 +76,12 @@ Es importante respaldar un modelo Canvas con otras herramientas cuantitativas co
 ## <h1 align= center> Análisis descriptivo </h1>
 
 #### <h2 align= center> ¿Que es el "Análisis Descriptivo"? </h2>
+
+Consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos. Este método se basa en una o varias preguntas de investigación y no tiene una hipótesis previa.
+
+Un análisis básico descriptivo implica calcular las medidas simples de composición y distribución de variables. Dependiendo del tipo de datos, pueden ser proporciones, tasas, razones o promedios. 
+
+##### <h3 align= center> Defini </h3>
 
 <p align='center'> <img src="Img\finaalidadanalisis.png" width="800" height="400" ><p>
 
