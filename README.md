@@ -81,7 +81,7 @@ Consiste en describir las tendencias claves en los datos existentes y observar l
 
 Un análisis básico descriptivo implica calcular las medidas simples de composición y distribución de variables. Dependiendo del tipo de datos, pueden ser proporciones, tasas, razones o promedios. 
 
-##### <h3 align= center> Defini </h3>
+##### <h3 align= center> Definición del objetivo del Análisis Descriptivo: </h3>
 
 <p align='center'> <img src="Img\finaalidadanalisis.png" width="800" height="400" ><p>
 
