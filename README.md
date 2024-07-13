@@ -61,11 +61,15 @@ Son indispensables y hay que tenerlos en cuenta al momento de realizar la planif
 
 ## <h1 align= center> Business Model Canvas </h1>
 
+#### <h2 align= center> ¿Que es el "Business Model Canvas" y su importancia? </h2>
+
 El modelo Canvas es la herramienta ideal para estructurar el modelo de negocio y comprenderlo en una mirada. Permite visualizar la información a través de distintas categorías centrando el análisis en el cliente y la propuesta de valor que ofrece un negocio. 
 
 Es una herramienta cualitativa que permite moldear una empresa e innovar con nuevas ideas para su eficiencia y funcionamiento. 
 
 Es importante respaldar un modelo Canvas con otras herramientas cuantitativas como lo es el análisis de datos o herramientas financieras, contables, entre otras, a los fines de lograr un análisis lo más objetivo posible.  
+
+##### <h3 align= center> Business Model Canvas completando sus 9 secciones: </h3>
 
 <p align='center'> <img src="Img\businessmodelcanvas.png" width="800" height="400" ><p>
 
