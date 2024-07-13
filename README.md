@@ -45,24 +45,27 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 #### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
 
-
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Stakeholder Mapping </h1>
 
 #### <h2 align= center> ¿Que y quienes son los "stakeholders"? </h2>
 
-Es una palabra en inglés que hace referencia a las partes interesadas relacionadas a alguna actividad o proyecto.
+"Stakeholder", es una palabra en inglés que hace referencia a las partes interesadas relacionadas a alguna actividad o proyecto.
 Son todos los actores (personas e instituciones) cuyos intereses pueden verse afectados positiva o negativamente por la ejecución o conclusión de las actividades de la empresa. 
 Son indispensables y hay que tenerlos en cuenta al momento de realizar la planificación estratégica.
 
 ##### <h3 align= center> Stakeholder mapping registrando información de cada uno de los niveles: </h3>
 
-<h3 align= center>   </h3>
-
 <p align='center'> <img src="Img\Stakeholdermapping.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Business Model Canvas </h1>
+
+El modelo Canvas es la herramienta ideal para estructurar el modelo de negocio y comprenderlo en una mirada. Permite visualizar la información a través de distintas categorías centrando el análisis en el cliente y la propuesta de valor que ofrece un negocio. 
+
+Es una herramienta cualitativa que permite moldear una empresa e innovar con nuevas ideas para su eficiencia y funcionamiento. 
+
+Es importante respaldar un modelo Canvas con otras herramientas cuantitativas como lo es el análisis de datos o herramientas financieras, contables, entre otras, a los fines de lograr un análisis lo más objetivo posible.  
 
 <p align='center'> <img src="Img\businessmodelcanvas.png" width="800" height="400" ><p>
 
