@@ -45,6 +45,7 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 #### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
 
+
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Stakeholder Mapping </h1>
@@ -56,6 +57,7 @@ Son todos los actores (personas e instituciones) cuyos intereses pueden verse af
 Son indispensables y hay que tenerlos en cuenta al momento de realizar la planificación estratégica.
 
 ##### <h3 align= center> Stakeholder mapping registrando información de cada uno de los niveles: </h3>
+
 
 <p align='center'> <img src="Img\Stakeholdermapping.png" width="800" height="400" ><p>
 
