@@ -39,9 +39,11 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Benchmarking </h1>
 
-#### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
+#### <h2 align= center> ¿Que es el "benchmarking"? </h2>
 
 Se trata de un proceso contínuo a través del cual tomamos como referencia productos, servicios o procesos de trabajo de la competencia o empresas líderes en el mercado y los comparamos con los de nuestra propia empresa para poder sacar conclusiones e implementar mejoras. 
+
+#### <h2 align= center> Construcción de un benchmark haciendo comparativa del negocio con 3 competidores e incluyendo 7 features: </h2>
 
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
