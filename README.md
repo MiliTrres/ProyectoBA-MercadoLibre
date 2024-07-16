@@ -1,4 +1,4 @@
-s<p align='center'> <img src="Img\logos_coderhouse.png" width="400" height="100" ><p>
+<p align='center'> <img src="Img\logos_coderhouse.png" width="400" height="100" ><p>
 
 # <h1 align= center> **Proyecto final - Business Analytics** </h1>
 
