@@ -51,6 +51,8 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 ## <h1 align= center> Stakeholder Mapping </h1>
 
+#### <h2 align= center> Onion Map </h2>
+
 #### <h2 align= center> ¿Que y quienes son los "Stakeholders"? </h2>
 
 "Stakeholder", es una palabra en inglés que hace referencia a las partes interesadas relacionadas a alguna actividad o proyecto.
