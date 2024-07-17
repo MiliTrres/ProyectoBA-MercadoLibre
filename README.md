@@ -39,27 +39,70 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Benchmarking </h1>
 
+#### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
+
+Se trata de un proceso contínuo a través del cual tomamos como referencia productos, servicios o procesos de trabajo de la competencia o empresas líderes en el mercado y los comparamos con los de nuestra propia empresa para poder sacar conclusiones e implementar mejoras. 
+
+#### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
+
 <p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Stakeholder Mapping </h1>
+
+#### <h2 align= center> ¿Que y quienes son los "Stakeholders"? </h2>
+
+"Stakeholder", es una palabra en inglés que hace referencia a las partes interesadas relacionadas a alguna actividad o proyecto.
+Son todos los actores (personas e instituciones) cuyos intereses pueden verse afectados positiva o negativamente por la ejecución o conclusión de las actividades de la empresa. 
+Son indispensables y hay que tenerlos en cuenta al momento de realizar la planificación estratégica.
+
+##### <h3 align= center> Stakeholder mapping registrando información de cada uno de los niveles: </h3>
 
 <p align='center'> <img src="Img\Stakeholdermapping.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Business Model Canvas </h1>
 
+#### <h2 align= center> ¿Que es el "Business Model Canvas" y su importancia? </h2>
+
+El modelo Canvas es la herramienta ideal para estructurar el modelo de negocio y comprenderlo en una mirada. Permite visualizar la información a través de distintas categorías centrando el análisis en el cliente y la propuesta de valor que ofrece un negocio. 
+
+Es una herramienta cualitativa que permite moldear una empresa e innovar con nuevas ideas para su eficiencia y funcionamiento. 
+
+Es importante respaldar un modelo Canvas con otras herramientas cuantitativas como lo es el análisis de datos o herramientas financieras, contables, entre otras, a los fines de lograr un análisis lo más objetivo posible.  
+
+##### <h3 align= center> Business Model Canvas completando sus 9 secciones: </h3>
+
 <p align='center'> <img src="Img\businessmodelcanvas.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Análisis descriptivo </h1>
 
+#### <h2 align= center> ¿Que es el "Análisis Descriptivo"? </h2>
+
+Consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos. Este método se basa en una o varias preguntas de investigación y no tiene una hipótesis previa.
+
+Un análisis básico descriptivo implica calcular las medidas simples de composición y distribución de variables. Dependiendo del tipo de datos, pueden ser proporciones, tasas, razones o promedios. 
+
+##### <h3 align= center> Definición del objetivo del Análisis Descriptivo: </h3>
+
 <p align='center'> <img src="Img\finaalidadanalisis.png" width="800" height="400" ><p>
 
-
+<p align='center'> <img src="Img\categorias.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Estadistica Descriptiva </h1>
 
 <p align='center'> <img src="Img\reporteanalisis.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Regresión Lineal </h1>
+
+#### <h2 align= center> ¿Para que se utiliza la "Regresión Lineal"? </h2>
+
+El análisis de la regresión lineal se utiliza para predecir el valor de una variable según el valor de otra. 
+La variable que desea predecir se denomina variable dependiente. 
+La variable que se está utilizando para predecir el valor de la otra variable se denomina variable independiente.
+
+#### <h2 align= center> ¿Como funciona la "Regresión Lineal"? </h2>
+
+Esta forma de análisis estima los coeficientes de la ecuación lineal, involucrando desde una a más variables independientes que mejor predicen el valor de la variable dependiente.
+
 
 <p align='center'> <img src="Img\regresionlineal.png" width="800" height="400" ><p>
 
@@ -69,10 +112,15 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Previsión </h1>
 
+#### <h2 align= center> ¿Que es la "Previsión"? </h2>
+
+La previsión actúa como herramienta de planificación para ayudar a las empresas a prepararse frente a la incertidumbre de lo que puede ocurrir en el futuro. Ayuda a los administradores a responder con confianza a los cambios, controlar las operaciones empresariales y tomar decisiones estratégicas que conduzcan al crecimiento futuro.
+
 <p align='center'> <img src="Img\prevision.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Informe Previsión </h1>
 
 <p align='center'> <img src="Img\informeprevision.png" width="800" height="400" ><p>
 
-A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)
+###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
+
