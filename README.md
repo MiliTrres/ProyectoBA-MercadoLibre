@@ -39,7 +39,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 *Recomendaciones Estratégicas:* Proponer estrategias innovadoras que Mercado Libre pueda implementar para consolidar su liderazgo en el mercado latinoamericano.
 
 
-## <h1 align= center> Benchmarking </h1>
+## <h1 align= center> Benchmarking Externo</h1>
 
 #### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
 
