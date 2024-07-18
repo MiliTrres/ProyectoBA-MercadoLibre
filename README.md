@@ -32,7 +32,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Análisis Descriptivo:* Realizar un análisis descriptivo de las ventas de Mercado Libre por categoría entre 2018 y 2023 para identificar tendencias y patrones significativos.
 
-*Regresión lineal de los datos:*
+*Regresión lineal de los datos:* Analizar la relación entre el tiempo y las ventas de productos por categoría en la plataforma de Mercado Libre. 
 
 *Identificación de Oportunidades:* Detectar oportunidades de mejora y áreas de crecimiento para Mercado Libre basadas en el análisis de datos.
 
