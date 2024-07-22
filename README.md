@@ -126,7 +126,7 @@ La previsión actúa como herramienta de planificación para ayudar a las empres
 
 <p align='center'> <img src="Img\informeprevision.png" width="800" height="400" ><p>
 
-## <h1 align= center> Previsión </h1>
+## <h1 align= center> Experimentación </h1>
 
 ###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
 
