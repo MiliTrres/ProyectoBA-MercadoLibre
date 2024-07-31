@@ -8,6 +8,8 @@
 
 ###### <h5 align= center> *Proyecto realizado durante el curso de Business Analytics, CODERHOUSE. Julio 2024.* </h5>
 
+###### <h5 align= center> *Comisión .* </h5>
+
 ## <h1 align= center> Introducción </h1>
 
 En la última década, el comercio electrónico ha transformado significativamente la forma en que las personas compran y venden productos. Mercado Libre, una de las principales plataformas de comercio electrónico en América Latina, ha sido un actor clave en esta revolución digital. En este proyecto, nos enfocaremos en analizar el desempeño de Mercado Libre en comparación con otros gigantes del comercio electrónico como Amazon, eBay y AliExpress. A través de un análisis exhaustivo de las ventas por categorías y un estudio detallado de las tendencias del mercado, nuestro objetivo es identificar estrategias innovadoras que permitan consolidar el liderazgo de Mercado Libre en la región.
