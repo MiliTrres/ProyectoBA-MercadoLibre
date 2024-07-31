@@ -8,7 +8,7 @@
 
 ###### <h5 align= center> *Proyecto realizado durante el curso de Business Analytics, CODERHOUSE. Julio 2024.* </h5>
 
-###### <h5 align= center> *Comisión .* </h5>
+###### <h5 align= center> *Comisión 57355.* </h5>
 
 ## <h1 align= center> Introducción </h1>
 
