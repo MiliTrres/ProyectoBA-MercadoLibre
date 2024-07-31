@@ -38,6 +38,8 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Recomendaciones Estratégicas:* Proponer estrategias innovadoras que Mercado Libre pueda implementar para consolidar su liderazgo en el mercado latinoamericano.
 
+*Experimentación:*
+
 
 ## <h1 align= center> Benchmarking Externo</h1>
 
