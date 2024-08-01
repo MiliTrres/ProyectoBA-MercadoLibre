@@ -46,6 +46,8 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Experimentación:*
 
+*Conclusiones:*
+
 
 ## <h1 align= center> Benchmarking Externo</h1>
 
