@@ -6,7 +6,7 @@
 
 <p align='center'> <img src="Img\logo_mercadolibre.png" width="300" height="150" ><p>
 
-###### <h5 align= center> *Proyecto realizado durante el curso de Business Analytics, CODERHOUSE. Julio 2024.* </h5>
+###### <h5 align= center> *Proyecto realizado durante el curso de Business Analytics, CODERHOUSE. * </h5>
 
 ###### <h5 align= center> *Comisión 57355.* </h5>
 
