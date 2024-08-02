@@ -138,6 +138,9 @@ La previsión actúa como herramienta de planificación para ayudar a las empres
 
 ## <h1 align= center> Experimentación </h1>
 
+#### <h2 align= center> ¿Que es la "Previsión"? </h2>
+
+
 <p align='center'> <img src="Img\experimentacion.png" width="800" height="400" ><p>
 
 ## <h1 align= center> Conclusiones de Experimentación </h1>
