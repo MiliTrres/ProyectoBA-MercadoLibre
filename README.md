@@ -75,7 +75,7 @@ Son indispensables y hay que tenerlos en cuenta al momento de realizar la planif
 
 ## <h1 align= center> Business Model Canvas </h1>
 
-![BusinessModelCanvasBanner](Img/BusinessModelCanvasBanner.png)
+![BusinessModelCanvasBanner](Img/BusinesModelCanvasBanner.png)
 
 #### <h2 align= center> ¿Que es el "Business Model Canvas" y su importancia? </h2>
 
