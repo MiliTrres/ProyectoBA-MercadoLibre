@@ -109,6 +109,8 @@ Un análisis básico descriptivo implica calcular las medidas simples de composi
 
 ## <h1 align= center> Regresión Lineal </h1>
 
+![RegresionLinealBanner](Img/RegresionLinealBanner.png)
+
 #### <h2 align= center> ¿Para que se utiliza la "Regresión Lineal"? </h2>
 
 El análisis de la regresión lineal se utiliza para predecir el valor de una variable según el valor de otra. 
