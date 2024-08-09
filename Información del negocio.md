@@ -1,11 +1,11 @@
 ## <h1 align= center> ¿Que es Mercado Libre? </h1>
 
-![MercadoLibre](MercadoLibre.png)
+![MercadoLibre](Img/MercadoLibre.png)
 
-![Fundada](Fundacion.png)
+![Fundada](Img/Fundacion.png)
 
-![Expansion](Expansion.png)
+![Expansion](Img/Expansion.png)
 
-![Evolucion](Evolucion.png)
+![Evolucion](Img/Evolucion.png)
 
-![Ecosistema](Paises.png)
+![Ecosistema](Img/Paises.png)
