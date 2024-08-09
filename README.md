@@ -96,9 +96,9 @@ Un análisis básico descriptivo implica calcular las medidas simples de composi
 
 ##### <h3 align= center> Definición del objetivo del Análisis Descriptivo: </h3>
 
-<p align='center'> <img src="Img\finaalidadanalisis.png" width="800" height="400" ><p>
+![FinalidadAnalisis](Img/finaalidadanalisis.png)
 
-<p align='center'> <img src="Img\categorias.png" width="800" height="400" ><p>
+![Categorias](Img/categorias.png)
 
 ## <h1 align= center> Estadistica Descriptiva </h1>
 
