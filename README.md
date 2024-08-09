@@ -102,7 +102,7 @@ Un análisis básico descriptivo implica calcular las medidas simples de composi
 
 ## <h1 align= center> Estadistica Descriptiva </h1>
 
-<p align='center'> <img src="Img\reporteanalisis.png" width="800" height="400" ><p>
+![ReporteAnalisis](Img/reporteanalisis.png)
 
 ## <h1 align= center> Regresión Lineal </h1>
 
