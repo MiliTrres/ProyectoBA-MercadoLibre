@@ -84,7 +84,7 @@ Es importante respaldar un modelo Canvas con otras herramientas cuantitativas co
 
 ##### <h3 align= center> Business Model Canvas completando sus 9 secciones: </h3>
 
-![Benchmarking](Img\businessmodelcanvas.png)
+![BusinessModelCanvas](Img\businessmodelcanvas.png)
 
 ## <h1 align= center> Análisis descriptivo </h1>
 
