@@ -119,7 +119,7 @@ La variable que se está utilizando para predecir el valor de la otra variable s
 Esta forma de análisis estima los coeficientes de la ecuación lineal, involucrando desde una a más variables independientes que mejor predicen el valor de la variable dependiente.
 
 
-<p align='center'> <img src="Img\regresionlineal.png" width="800" height="400" ><p>
+![RegresionLineal](Img/regresionlineal.png)
 
 ## <h1 align= center> Informe de Regresión </h1>
 
