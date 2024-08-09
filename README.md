@@ -123,7 +123,7 @@ Esta forma de análisis estima los coeficientes de la ecuación lineal, involucr
 
 ## <h1 align= center> Informe de Regresión </h1>
 
-<p align='center'> <img src="Img\informeregresion.png" width="800" height="400" ><p>
+![InformeREgresion](Img\informeregresion.png)
 
 ## <h1 align= center> Previsión </h1>
 
