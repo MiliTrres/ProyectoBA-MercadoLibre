@@ -88,6 +88,8 @@ Es importante respaldar un modelo Canvas con otras herramientas cuantitativas co
 
 ## <h1 align= center> Análisis descriptivo </h1>
 
+![AnalisisDescriptivoBanner](Img/AnalisisDescripBanner.png)
+
 #### <h2 align= center> ¿Que es el "Análisis Descriptivo"? </h2>
 
 Consiste en describir las tendencias claves en los datos existentes y observar las situaciones que conduzcan a nuevos hechos. Este método se basa en una o varias preguntas de investigación y no tiene una hipótesis previa.
