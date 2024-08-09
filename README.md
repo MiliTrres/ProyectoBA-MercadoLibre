@@ -46,9 +46,9 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Benchmarking Externo</h1>
 
-#### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
-
 ![BenchmarkingBanner](Img/BenchmarkingBanner.png)
+
+#### <h2 align= center> ¿Que es el "Benchmarking"? </h2>
 
 Se trata de un proceso contínuo a través del cual tomamos como referencia productos, servicios o procesos de trabajo de la competencia o empresas líderes en el mercado y los comparamos con los de nuestra propia empresa para poder sacar conclusiones e implementar mejoras. 
 
@@ -68,7 +68,7 @@ Son indispensables y hay que tenerlos en cuenta al momento de realizar la planif
 
 ##### <h3 align= center> Stakeholder mapping registrando información de cada uno de los niveles: </h3>
 
-![Stakeholder[(Img/Stakeholdermapping.png)
+![Stakeholder](Img/Stakeholdermapping.png)
 
 ## <h1 align= center> Business Model Canvas </h1>
 
