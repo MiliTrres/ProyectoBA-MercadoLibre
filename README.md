@@ -54,7 +54,7 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 #### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
 
-![Benchmarking](Img\Benchmarking.png)
+![Benchmarking](Img/Benchmarking.png)
 
 ## <h1 align= center> Stakeholder Mapping </h1>
 
