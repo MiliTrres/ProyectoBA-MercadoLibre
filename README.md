@@ -21,8 +21,6 @@ Mercado Libre fue fundada en 1999 y desde entonces ha crecido exponencialmente, 
 
 Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay están invirtiendo fuertemente para expandir su presencia en América Latina, mientras que AliExpress continúa atrayendo a consumidores con precios competitivos y una vasta selección de productos. En este contexto, es crucial que Mercado Libre implemente estrategias innovadoras para mantenerse a la vanguardia y asegurar su posición de liderazgo.
 
-<p align='center'> <img src="Img\cajasml.png" width="800" height="400" ><p>
-
 ## <h1 align= center> Objetivos del Proyecto </h1>
 
 *Presentación del negocio:* Presentar brevemente la marca y datos generales (antiguedad, cantidad de sucursales, presencia online, cantidad de colaboradores, etc.), incluyendo detalle del producto(s) o servicio(s) que ofrece y sus principales características (propuesta de valor/diferencial).
@@ -56,7 +54,7 @@ Se trata de un proceso contínuo a través del cual tomamos como referencia prod
 
 #### <h3 align= center> Benchmark realizando comparativa del negocio con 3 competidores e incluyendo 7 features: </h3>
 
-<p align='center'> <img src="Img\Benchmarking.png" width="800" height="400" ><p>
+![Benchmarking](Img\Benchmarking.png)
 
 ## <h1 align= center> Stakeholder Mapping </h1>
 
