@@ -10,7 +10,6 @@
 
 ###### <h5 align= center> *Comisión 57355 | Profesor Alcides Gonzalez.* </h5>
 
-
 ## <h1 align= center> Introducción </h1>
 
 En la última década, el comercio electrónico ha transformado significativamente la forma en que las personas compran y venden productos. Mercado Libre, una de las principales plataformas de comercio electrónico en América Latina, ha sido un actor clave en esta revolución digital. En este proyecto, nos enfocaremos en analizar el desempeño de Mercado Libre en comparación con otros gigantes del comercio electrónico como Amazon, eBay y AliExpress. A través de un análisis exhaustivo de las ventas por categorías y un estudio detallado de las tendencias del mercado, nuestro objetivo es identificar estrategias innovadoras que permitan consolidar el liderazgo de Mercado Libre en la región.
@@ -39,10 +38,9 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Recomendaciones Estratégicas:* Proponer estrategias innovadoras que Mercado Libre pueda implementar para consolidar su liderazgo en el mercado latinoamericano.
 
-*Experimentación:*
+*Experimentación:* Realizar el diseño de un experimento, justificando las decisiones tomadas, siguiendo los pasos del método científico, mostrando y especificando a qué tipo de hipótesis responde.
 
 *Conclusiones:*
-
 
 ## <h1 align= center> Benchmarking Externo</h1>
 
