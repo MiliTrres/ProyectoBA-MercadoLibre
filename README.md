@@ -133,11 +133,11 @@ Esta forma de análisis estima los coeficientes de la ecuación lineal, involucr
 
 La previsión actúa como herramienta de planificación para ayudar a las empresas a prepararse frente a la incertidumbre de lo que puede ocurrir en el futuro. Ayuda a los administradores a responder con confianza a los cambios, controlar las operaciones empresariales y tomar decisiones estratégicas que conduzcan al crecimiento futuro.
 
-![Prevision](Img\prevision.png)
+![Prevision](Img/prevision.png)
 
 ## <h1 align= center> Informe Previsión </h1>
 
-![InformePrevision](Img\informeprevision.png)
+![InformePrevision](Img/informeprevision.png)
 
 ## <h1 align= center> Experimentación </h1>
 
