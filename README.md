@@ -147,7 +147,11 @@ La previsión actúa como herramienta de planificación para ayudar a las empres
 
 #### <h2 align= center> ¿Que es la "Experimentación"? </h2>
 
-La experimentación es 
+La experimentación consiste en aquellos métodos que aplican los investigadores para probar sus hipótesis respecto a lo que se está estudiando.
+
+Es uno de los pasos del método científico: se basa en el estudio de determinados fenómenos observados en la naturaleza o en el ambiente controlado del laboratorio. 
+Consiste en exponer al fenómeno u objeto que se estudia a determinadas variables para poder explicar o predecir resultados o causas y consecuencias.
+
 
 ![Experimentacion](Img\experimentacion.png)
 
