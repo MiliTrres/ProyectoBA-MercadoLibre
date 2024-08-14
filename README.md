@@ -40,7 +40,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 *Experimentación:* Realizar el diseño de un experimento, justificando las decisiones tomadas, siguiendo los pasos del método científico, mostrando y especificando a qué tipo de hipótesis responde.
 
-*Conclusiones:*
+*Conclusiones:* Plasmar conclusiones obtenidas mediante el uso de herramientas de storytelling.
 
 ## <h1 align= center> Benchmarking Externo</h1>
 
