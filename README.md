@@ -123,7 +123,7 @@ Esta forma de análisis estima los coeficientes de la ecuación lineal, involucr
 
 ## <h1 align= center> Informe de Regresión </h1>
 
-![InformeREgresion](Img\informeregresion.png)
+![InformeREgresion](Img/informeregresion.png)
 
 ## <h1 align= center> Previsión </h1>
 
@@ -151,7 +151,7 @@ Es uno de los pasos del método científico: se basa en el estudio de determinad
 Consiste en exponer al fenómeno u objeto que se estudia a determinadas variables para poder explicar o predecir resultados o causas y consecuencias.
 
 
-![Experimentacion](Img\experimentacion.png)
+![Experimentacion](Img/experimentacion.png)
 
 ## <h1 align= center> Conclusiones de Experimentación </h1>
 
