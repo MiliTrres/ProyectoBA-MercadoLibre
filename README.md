@@ -150,7 +150,6 @@ La experimentación consiste en aquellos métodos que aplican los investigadores
 Es uno de los pasos del método científico: se basa en el estudio de determinados fenómenos observados en la naturaleza o en el ambiente controlado del laboratorio. 
 Consiste en exponer al fenómeno u objeto que se estudia a determinadas variables para poder explicar o predecir resultados o causas y consecuencias.
 
-
 ![Experimentacion](Img/experimentacion.png)
 
 ## <h1 align= center> Conclusiones de Experimentación </h1>
