@@ -158,6 +158,8 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ## <h1 align= center> Metodologia </h1>
 
+![Metodologia](Img/MetodologiaBanner.png)
+
 ## <h1 align= center> Conclusiones de Experimentación </h1>
 
 ![Conclusiones](Img/ConclusionesBanner.png)
