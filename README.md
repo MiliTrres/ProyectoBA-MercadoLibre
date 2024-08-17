@@ -154,6 +154,8 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ![Objetivos](Img/Objetivos.png)
 
+![Hipotesis](Img/Hipotesis.png)
+
 ## <h1 align= center> Conclusiones de Experimentación </h1>
 
 ![Conclusiones](Img/ConclusionesBanner.png)
