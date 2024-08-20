@@ -174,6 +174,8 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 - Al analizar la tercer semana, se pudo ver que el tiempo de entrega promedio con el nuevo sistema logístico, se redujo un 22%. Si bien el porcentaje es menor que en la segunda semana, esto no deberia ser alarmante. Esto es a causa de que el tiempo de entrega promedio con el nuevo sistema se mantuvo igual que la semana 2, y el tiempo promedio sin el nuevo sistema disminuyó.
 
+- Durante la cuarta y última semana, se pudo ver una disminución del 33% en el tiempo promedio de entrega al implementar el nuevo sistema logístico respecto al actual, superando con exito (y de manera importante) el objetivo planteado.
+
 
 ###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
 
