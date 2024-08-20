@@ -164,9 +164,10 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ![Conclusiones](Img/ConclusionesBanner.png)
 
-
-
 ![Experimentacion](Img/experimentacion.png)
+
+- Se pudo observar que, la primera semana del experimento, el tiempo de entrega con el nuevo sistema logístico, se redujo un 20%, alcanzando el objetivo establecido de manera exacta. El tiempo de entrega promedio era de 5 días, y se logró reducir ese tiempo, a 4 días promedio.
+
 
 ###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
 
