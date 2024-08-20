@@ -176,7 +176,7 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 - Durante la cuarta y última semana, se pudo ver una disminución del 33% en el tiempo promedio de entrega al implementar el nuevo sistema logístico respecto al actual, superando con exito (y de manera importante) el objetivo planteado.
 
--Al analizar las encuestas de satisfacción realizadas a clientes que pudieron comprar mediante el nuevo y avanzado  sistema logístico de Mercado Libre, se notó que hubo un aumento en la calificación promedio del 7%, pasando de 4.1 ⭐ a 4.3 ⭐.
+- Al analizar las encuestas de satisfacción realizadas a clientes que pudieron comprar mediante el nuevo y avanzado  sistema logístico de Mercado Libre, se notó que hubo un aumento en la calificación promedio del 7%, pasando de 4.1 ⭐ a 4.3 ⭐.
 Si bien no se alcanzó el objetivo, el porcentaje alcanzado no se encuentra lejos de lo esperado y se espera superarlo en un futuro cercano.
 
 
