@@ -164,6 +164,8 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ![Conclusiones](Img/ConclusionesBanner.png)
 
+#### <h2 align= center> Análisis del tiempo de entrega promedio, en días, con y sin el nuevo sistema logistico: </h2>
+
 ![Experimentacion](Img/experimentacion.png)
 
   
