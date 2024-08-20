@@ -164,6 +164,8 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ![Conclusiones](Img/ConclusionesBanner.png)
 
+
+
 ![Experimentacion](Img/experimentacion.png)
 
 ###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
