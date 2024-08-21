@@ -169,8 +169,8 @@ Mejorar los centros de distribución y la red de transporte, implementar softwar
 - Implementación del Sistema:
 Realizar una fase piloto en regiones seleccionadas para evaluar el funcionamiento del nuevo sistema y gradualmente expandir el sistema a otras regiones basándose en los resultados del piloto.
 
-
-
+- Monitoreo y Evaluación: 
+Llevar un registro detallado de los tiempos de entrega antes, durante y después de la implementación, recopilar opiniones de los clientes sobre la experiencia de entrega y comparar los costos operativos antes y después de la implementación del nuevo sistema.
 
 ## <h1 align= center> Conclusiones de Experimentación </h1>
 
