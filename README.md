@@ -160,6 +160,10 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 
 ![Metodologia](Img/MetodologiaBanner.png)
 
+- Selección de Productos y Regiones: 
+Selección de productos de alta demanda y regiones estratégicas con altos volúmenes de ventas para implementar el nuevo sistema de logística.
+
+
 ## <h1 align= center> Conclusiones de Experimentación </h1>
 
 ![Conclusiones](Img/ConclusionesBanner.png)
