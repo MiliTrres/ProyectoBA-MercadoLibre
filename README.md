@@ -164,7 +164,11 @@ Consiste en exponer al fenómeno u objeto que se estudia a determinadas variable
 Selección de productos de alta demanda y regiones estratégicas con altos volúmenes de ventas para implementar el nuevo sistema de logística.
 
 - Diseño del Sistema de Logística Avanzada: 
-Mejorar los centros de distribución y la red de transporte, implementar software de optimización de rutas y seguimiento en tiempo real y capacitación intensiva del personal logístico. 
+Mejorar los centros de distribución y la red de transporte, implementar software de optimización de rutas y seguimiento en tiempo real y capacitación intensiva del personal logístico.
+
+- Implementación del Sistema:
+Realizar una fase piloto en regiones seleccionadas para evaluar el funcionamiento del nuevo sistema y gradualmente expandir el sistema a otras regiones basándose en los resultados del piloto.
+
 
 
 
