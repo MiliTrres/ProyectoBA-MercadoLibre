@@ -109,8 +109,6 @@ Un análisis básico descriptivo implica calcular las medidas simples de composi
 #### <h2 align= center> ¿Para que se utiliza la "Regresión Lineal"? </h2>
 
 El análisis de la regresión lineal se utiliza para predecir el valor de una variable según el valor de otra. 
-La variable que desea predecir se denomina variable dependiente. 
-La variable que se está utilizando para predecir el valor de la otra variable se denomina variable independiente.
 
 #### <h2 align= center> ¿Como funciona la "Regresión Lineal"? </h2>
 
