@@ -22,7 +22,7 @@ Sin embargo, la competencia es feroz. Empresas globales como Amazon y eBay está
 
 ## <h1 align= center> Objetivos del Proyecto </h1>
 
-*Presentación del negocio:* Presentar brevemente la marca y datos generales (antiguedad, cantidad de sucursales, presencia online, cantidad de colaboradores, etc.), incluyendo detalle de los productos o servicio(s) que ofrece y sus principales características (propuesta de valor/diferencial).
+*Presentación del negocio:* Presentar brevemente la marca y datos generales (antiguedad, cantidad de sucursales, presencia online, cantidad de colaboradores, etc.), incluyendo detalle de los productos y servicios que ofrece y sus principales características (propuesta de valor/diferencial).
 
 *Benchmarking:* Comparar el desempeño de Mercado Libre con el de Amazon, eBay y AliExpress para evaluar su posición competitiva en el mercado.
 
