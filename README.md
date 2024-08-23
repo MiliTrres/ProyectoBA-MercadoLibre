@@ -77,7 +77,6 @@ El modelo Canvas es la herramienta ideal para estructurar el modelo de negocio y
 
 Es una herramienta cualitativa que permite moldear una empresa e innovar con nuevas ideas para su eficiencia y funcionamiento. 
 
-Es importante respaldar un modelo Canvas con otras herramientas cuantitativas como lo es el análisis de datos o herramientas financieras, contables, entre otras, a los fines de lograr un análisis lo más objetivo posible.  
 
 ##### <h3 align= center> Business Model Canvas completando sus 9 secciones: </h3>
 
