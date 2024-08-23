@@ -176,8 +176,6 @@ Llevar un registro detallado de los tiempos de entrega antes, durante y después
 
 ![Experimentacion](Img/experimentacion.png)
 
-  
-
 - Se pudo observar que, la primera semana del experimento, el tiempo de entrega con el nuevo sistema logístico, se redujo un 20%, alcanzando el objetivo establecido de manera exacta. El tiempo de entrega promedio era de 5 días, y se logró reducir ese tiempo, a 4 días promedio.
 
 - Durante la segunda semana del experimento se pudo ver que el tiempo promedio de entrega con el nuevo sistema logístico se redujo un 30 %, con respecto al tiempo promedio de entrega con el sistema logístico actual, superando ampliamente el objetivo.
