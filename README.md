@@ -190,4 +190,4 @@ Si bien no se alcanzó el objetivo, el porcentaje alcanzado no se encuentra lejo
 
 ###### <h5 align= center> *A traves del siguiente link puede visualizar la presentación en una presentación de Google: [Presentación](https://docs.google.com/presentation/d/1tpbx3GVLk2sPwTJGmvwi8arYPK_JD-qVWSEcZ-EI3MM/edit#slide=id.g21572fb3add_0_62)* </h5>
 
-###### <h5 align= center> *A traves del siguiente link puede acceder al archivo .xlsx donde se realizaron los calculos y los gráficos para el proyecto: [Hoja de Calculo]()* </h5>
+###### <h5 align= center> *A traves del siguiente link puede acceder al archivo .xlsx donde se realizaron los calculos y los gráficos para el proyecto: [Hoja de Calculo](https://docs.google.com/spreadsheets/d/1hvDWGR5o1jpfPV34nWBcXChx0oAt-AAK/edit?usp=sharing&ouid=113461612722031869563&rtpof=true&sd=true)* </h5>
